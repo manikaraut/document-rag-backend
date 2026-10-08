@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Environment variables
+.env
+
+# Local database
+*.db
+
+# Uploaded files
+uploads/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Test cache
+.pytest_cache/
+
+# IDE
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Qdrant local data
+qdrant_data/
